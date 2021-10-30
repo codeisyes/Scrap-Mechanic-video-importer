@@ -1,3 +1,4 @@
+To use dowload and extract "video makes.zip"
 Python has to be installed https://www.python.org/ (may not work on version lower than 3.9)
 Has to be run in a virtual environment
 
