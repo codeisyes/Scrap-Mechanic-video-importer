@@ -1,0 +1,1 @@
+{"path": "blueprint.json", "xres": 30, "yres": 15, "startframe": 1, "framecount": 49, "prefix": "", "postfix": ".png", "charachtercount": 4, "folder": "image sequence"}
